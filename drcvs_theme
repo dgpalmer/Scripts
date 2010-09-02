@@ -1,0 +1,2 @@
+#!/bin/bash
+cvs -z6 -d:pserver:anonymous:anonymous@cvs.drupal.org:/cvs/drupal-contrib checkout -r DRUPAL-$2 -d $1 contributions/themes/$1

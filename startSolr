@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd ~/apache-solr-1.4.0/example
+java -jar start.jar

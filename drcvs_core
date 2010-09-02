@@ -1,0 +1,2 @@
+#!/bin/bash
+cvs -z6 -d:pserver:anonymous:anonymous@cvs.drupal.org:/cvs/drupal co -d $1 -r DRUPAL-$2 drupal
